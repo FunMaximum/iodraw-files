@@ -99,8 +99,8 @@
         <mxCell id="xe6DJw7fw-Ifqb1_ZwBc-7" value="execute只负责运算地址和数字运算，和控制流，不决定后面的部件谁工作，输出一个数字" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="1080" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xe6DJw7fw-Ifqb1_ZwBc-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="1090" width="120" height="60" as="geometry" />
+        <mxCell id="xe6DJw7fw-Ifqb1_ZwBc-8" value="访存器输入：&lt;div&gt;execute的值&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
