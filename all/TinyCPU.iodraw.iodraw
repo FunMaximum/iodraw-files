@@ -31,8 +31,8 @@
         <mxCell id="xe6DJw7fw-Ifqb1_ZwBc-8" value="访存器输入：&lt;div&gt;execute的值&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xe6DJw7fw-Ifqb1_ZwBc-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270" y="740" width="120" height="60" as="geometry" />
+        <mxCell id="xe6DJw7fw-Ifqb1_ZwBc-9" value="分支预测&lt;div&gt;指令队列缓存和填写（两个一组）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="785" width="120" height="185" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
