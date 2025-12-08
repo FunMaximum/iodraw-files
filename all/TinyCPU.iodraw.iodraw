@@ -112,7 +112,19 @@
         <mxCell id="xe6DJw7fw-Ifqb1_ZwBc-31" value="检测指令冲突，缓存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="250" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xe6DJw7fw-Ifqb1_ZwBc-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.552;exitY=0.024;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xe6DJw7fw-Ifqb1_ZwBc-26">
+        <mxCell id="xe6DJw7fw-Ifqb1_ZwBc-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.552;exitY=0.024;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xe6DJw7fw-Ifqb1_ZwBc-26" target="xe6DJw7fw-Ifqb1_ZwBc-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="330" as="sourcePoint" />
+            <mxPoint x="330" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xe6DJw7fw-Ifqb1_ZwBc-33" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="330" as="sourcePoint" />
+            <mxPoint x="330" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xe6DJw7fw-Ifqb1_ZwBc-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="330" as="sourcePoint" />
             <mxPoint x="330" y="280" as="targetPoint" />
