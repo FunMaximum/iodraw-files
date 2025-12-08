@@ -90,7 +90,7 @@
         <mxCell id="xe6DJw7fw-Ifqb1_ZwBc-4" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif, SimHei, SimSun; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;取指令、指令译码、执行指令、访存取数、结果写回。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="480" width="480" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xe6DJw7fw-Ifqb1_ZwBc-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xe6DJw7fw-Ifqb1_ZwBc-5" value="run(), step()&lt;div&gt;都在控制器范畴&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
